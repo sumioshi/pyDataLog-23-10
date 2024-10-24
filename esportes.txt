@@ -1,0 +1,4 @@
+gosta_de("Carlos", "Futebol").
+gosta_de("Joao", "Basquete").
+gosta_de("Maria", "Tenis").
+gosta_de("Pedro", "Futebol").

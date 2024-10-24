@@ -1,0 +1,4 @@
+aluno("Joao", 7.5).
+aluno("Maria", 8.0).
+aluno("Pedro", 5.0).
+aluno("Ana", 9.0).
